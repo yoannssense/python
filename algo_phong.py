@@ -2,6 +2,7 @@ from array import *
 
 # Phong sorting
 #
+# Algorithm to sort an array of letters alphanumerically first and alternate vowel and consonant.
 #
 # Examples:
 # bike -> ebik
